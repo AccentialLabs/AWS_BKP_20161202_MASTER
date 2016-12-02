@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02/03/2016, 11:52:26
+    Author     : user
+*/
+div.pager {
+    text-align: right;
+    margin: 1em 0;
+}
+
+div.pager span {
+    display: inline-block;
+    width: 1.8em;
+    height: 1.8em;
+    line-height: 1.8;
+    text-align: center;
+    cursor: pointer;
+    background: #fff;
+    color: #3399cc;
+    margin-right: 0.5em;
+}
+
+div.pager span.active {
+    background: #3399cc;
+    color: #fff;
+}
+
+.active-icon .inactive-icon{
+    cursor: pointer;
+}
+
+.starOffer{
+    width: 70px;
+}
+
+#openSpreadsheet{
+    margin-right: 5px;
+}

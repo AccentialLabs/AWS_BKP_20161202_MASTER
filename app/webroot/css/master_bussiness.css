@@ -1,0 +1,123 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25/02/2016, 16:24:07
+    Author     : user
+*/
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand{
+    margin-left:30%!important;
+}
+.nav-tabs>li>a{
+    color:#2597AC!important;
+}
+#menuBusinessFull > ul > li> a{
+      color:#2597AC!important;
+}
+.sidebar {
+    position: fixed;
+    top: 51px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    display: block;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    border-right: 1px solid #eee;
+}
+
+#menuBusinessFull .glyphicon {
+    margin-right: 10px;
+}
+
+
+li .linkMenu {
+    margin-left: 30px;
+}
+
+.leftSquare {
+    margin-right: -13px;
+}
+
+.darkBlue {
+    background-color: #2597ac;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.heightSquare {
+    height: 73px;
+}
+
+.heightFirstSpace {
+    height: 4px;
+}
+
+.delivery {
+    font-size: -webkit-xxx-large;
+}
+.box-dash {
+    font-size: 1em;
+
+}
+
+.box-dash-small{
+    font-size: 0.8em;   
+}
+
+.delivery {
+    font-size: 3.5em;
+}
+
+.currency{
+    line-height: 73px;
+    font-size: 1em;
+}
+
+.squareTitle{
+    background: #2597ac;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 1px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+.squareBox .col-md-4{
+    border: 1px solid #fff;    
+}
+
+.main {
+    padding: 50px;
+    padding-right: 40px;
+    padding-left: 40px;
+    //text-align: center;
+    color: #2597AC!important;
+}
+@media (min-width: 768px) {
+    .main {
+
+    }
+}
+
+.main .page-header {
+    /*margin-top: 0;*/
+    background-color: #999933;
+    margin-left: -40px;
+    margin-right: -40px;
+    margin-top: -20px;
+    color: white;
+    -khtml-opacity: .50;
+    -moz-opacity: .50;
+    -ms-filter: ”alpha(opacity=50)”;
+    filter: alpha(opacity=50);
+    filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.5);
+    opacity: 0.5;
+    margin-top: -18px;
+    height: 40px;
+    text-align: center;
+}

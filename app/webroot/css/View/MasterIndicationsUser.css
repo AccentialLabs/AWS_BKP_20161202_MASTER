@@ -1,0 +1,55 @@
+.rotatew{
+
+
+    overflow: hidden;
+    /* Safari */
+    -webkit-transform: rotate(270deg);
+
+    /* Firefox */
+    -moz-transform: rotate(270deg);
+
+    /* IE */
+    -ms-transform: rotate(270deg);
+
+    /* Opera */
+    -o-transform: rotate(270deg);
+
+}
+
+.rotateh{
+
+    overflow: hidden;
+    /* Safari */
+    -webkit-transform: rotate(180deg);
+
+    /* Firefox */
+    -moz-transform: rotate(180deg);
+
+    /* IE */
+    -ms-transform: rotate(180deg);
+
+    /* Opera */
+    -o-transform: rotate(180deg);
+
+}
+.rotate{
+
+    
+    /* Safari */
+    -webkit-transform: rotate(90deg)!important;
+
+    /* Firefox */
+    -moz-transform: rotate(90deg)!important;
+
+    /* IE */
+    -ms-transform: rotate(90deg)!important;
+
+    /* Opera */
+    -o-transform: rotate(90deg)!important;
+
+    width:200px !important;
+    left: 6%!important;
+    top: 0%!important;
+    height:150px;
+    
+}

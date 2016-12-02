@@ -1,0 +1,2 @@
+[{"Cliente":{"name":"Matheus Odilon","id":"289"},"Servico":{"name":"Banho de Brilho","id":"7"},"schedule":"12:00","date":"17/02/2016","solicitation":"26/01/2016","status":"WAITING_COMPANY_RESPONSE"},
+{"Cliente":{"name":"Tony Stark","id":"300"},"Servico":{"name":"Botox","id":"9"},"schedule":"15:00","date":"17/02/2016","solicitation":"26/01/2016","status":"WAITING_COMPANY_RESPONSE"}]

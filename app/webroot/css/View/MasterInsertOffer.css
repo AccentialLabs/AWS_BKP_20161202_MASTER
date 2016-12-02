@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03/03/2016, 12:25:01
+    Author     : Matheus Odilon
+*/
+
+.cad-offer-images{
+    text-align: center;
+}
+
+.imageSize{
+    width: 80%;
+    margin: 5px;
+}
+.modal-sm{
+    z-index:10!important;
+}
+.modal-lg{
+    z-index:0!important;
+}
